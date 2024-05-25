@@ -7,3 +7,12 @@ With the amount being negative, the Bank has been experiencing a decrease
 within the last 86 months. The greatest increase in profits were of August 16th, 
 with a total of $1,862,002. Whereas the greatest decrease in profits were of 
 February 14th, with the total of -$1,825,558. 
+
+
+Financial Analysis
+---------------------------------------
+Total Months: 86
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits: Aug-16($1862002)
+Greatest Decrease in Profits: Feb-14($-1825558)
