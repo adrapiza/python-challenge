@@ -1,0 +1,8 @@
+PyPoll Analysis
+
+Based on the Election Results, there was a total of 369,711 people who participated in the
+elections. The candidates who participated to run in the elections were Charles Casper Stockham, 
+Diane DeGette and Raymon Anthony Doane. Charles Casper Stockham had an overall 23.049% of the election
+which were 85,213 votes. Diane DeGette had a 73.812% in the elections with 272,892 votes, highest of the three. Lastly, 
+Raymon Anthony Doane had the lowest counts of votes with 11,606, with his percentage being 3.139% in 
+this run. Due to Diane DeGette with the highest vote, Diane DeGette wins the election. 

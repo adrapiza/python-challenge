@@ -1,0 +1,9 @@
+PyBank Analysis 
+
+Based on the Financial Analysis created, this was within an 86 month
+period. Within this period, a total amount of $2,256,198 was collected. 
+The average change in profit/loss was in the negatives with the amount of -$8,311.11.
+With the amount being negative, the Bank has been experiencing a decrease 
+within the last 86 months. The greatest increase in profits were of August 16th, 
+with a total of $1,862,002. Whereas the greatest decrease in profits were of 
+February 14th, with the total of -$1,825,558. 
